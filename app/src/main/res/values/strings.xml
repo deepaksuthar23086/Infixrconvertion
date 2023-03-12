@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert">Convert</string>
+    <string name="postfix_expression">Postfix Expression</string>
+    <string name="infix_expression">Infix Expression</string>
+    <string name="infix_to_postfix">INFIX TO POSTFIX</string>
+    <string name="enter_expression">Enter Expression</string>
+    <string name="output">OutPut</string>
+    <string name="reset">Reset</string>
+    <string name="infix_expression1">Infix Expression</string>
+    <string name="prefix_expression">Prefix Expression</string>
+    <string name="postfix_conversion">POSTFIX CONVERSION</string>
+    <string name="infix_conversion">INFIX CONVERSION</string>
+    <string name="prefix_conversion">PREFIX CONVERSION</string>
+</resources>
